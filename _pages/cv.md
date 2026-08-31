@@ -4,23 +4,22 @@ title: "Curriculum Vitae"
 author_profile: true
 ---
 
-You may download my complete CV here:
-
-[**Download my CV (PDF)**](/files/Alireza_Kamali_Ardakani_CV.pdf)
+[**Download my complete CV (PDF)**](/files/Alireza_Kamali_Ardakani_CV.pdf)
 
 ## Education
 
-**M.Sc. in Mechanical Engineering — Robotics**  
-University of Tehran, Sep. 2025–Present  
-GPA: 17.04/20  
-Thesis: *Design, Control, and Fabrication of a Soft Fin-Ray Robotic Gripper Based on Computer Vision*
-
 **B.Sc. in Mechanical Engineering**  
-University of Tehran, Sep. 2020–Sep. 2025  
-GPA: 18.04/20 (3.83/4.00)  
-Final two years: 3.92/4.00  
-Rank: 9th among 120 students  
-Thesis: *Dynamic Analysis of Gough–Stewart Parallel Manipulators in a Serial Configuration*
+University of Tehran, Sep. 2020–Sep. 2025
+
+- GPA: 18.04/20 (3.83/4.00)
+- Ranked 9th among 120 students
+- Thesis: *Dynamic Analysis of Gough–Stewart Parallel Manipulators in a Serial Configuration*
+
+**SAMPAD High Schools — Mathematics**  
+Aug. 2017–Aug. 2020
+
+- GPA: 19.64/20 (4.00/4.00)
+- Ranked 1st among 30 students
 
 ## Research Experience
 
@@ -31,19 +30,30 @@ Supervisor: Dr. Mehdi Tale Masouleh
 - Dynamic modeling and control of serial-parallel and hyper-redundant manipulators
 - Redundancy resolution and obstacle avoidance
 - Minimal inertial-parameter identification
-- Simulation and validation using MATLAB, Simscape, Python, and MSC Adams
+- Simulation and validation using MATLAB/Simscape, Python, and MSC Adams
 
 **Research Assistant — Vibration Nonlinear Systems Laboratory**  
 University of Tehran, Jan. 2026–Present  
 Supervisor: Dr. Arash Bahrami
 
 - Design, fabrication, and control of a soft Fin-Ray robotic gripper
-- Vision-based grasping of deformable objects
-- SolidWorks modeling, system identification, computer vision, and machine learning
+- Vision-based grasping of deformable objects with emphasis on stable and compliant manipulation
+- SolidWorks modeling, computer vision, system identification, and machine learning
+
+## Publications
+
+### Published
+
+- A. Kamali et al., “Dynamic Modeling of Double Segment Redundant Gough–Stewart Hybrid Manipulator,” *IEEE ICROM 2024*.
+- S. Rahmati, A. Kamali et al., “Design, Fabrication, and Control of a Mechanical Integrator,” *ISME 2025*.
+
+### Manuscript in Preparation
+
+- H. Akbari, A. Kamali et al., “Dynamic Analysis and Base Inertial Parameters of Gough–Stewart Hyper-Redundant Manipulator.”
 
 ## Teaching Experience
 
-**Teaching Assistant, University of Tehran**
+**Teaching Assistant — University of Tehran**
 
 | Semester | Course | Instructor |
 |---|---|---|
@@ -59,20 +69,26 @@ Supervisor: Dr. Arash Bahrami
 ## Technical Skills
 
 - **Programming:** Python, C/C++
-- **Robotics and Simulation:** MATLAB, Simulink, Simscape, ROS, MSC Adams, COMSOL
+- **Robotics and Control:** MATLAB, Simulink, Simscape, ROS, system identification, robot dynamics, digital control
 - **Mechanical Design:** SolidWorks, AutoCAD
-- **AI and Vision:** Machine learning, deep learning, neural networks, YOLO, computer vision
-- **Tools:** Linux, Arduino, Proteus, LaTeX
-- **Core Topics:** Robot dynamics, system identification, state-space control, reinforcement learning, object detection, compliant manipulation
+- **Simulation:** MSC Adams, COMSOL, Proteus
+- **Artificial Intelligence:** Machine learning, neural networks, deep learning, computer vision, reinforcement learning
+- **Tools:** Linux, Arduino, LaTeX
 
-## Honors
+## Honors and Awards
 
 - Top 15 finalist, National Mechanical Engineering Student Olympiad, 2023 and 2024
 - Ranked among the top 0.2% in the National University Entrance Examination, 2020
-- Ranked 9th among 120 B.Sc. mechanical-engineering students at the University of Tehran
+- Ranked 9th among 120 B.Sc. Mechanical Engineering students, University of Tehran
 
-## Languages
+## Languages and Test Scores
 
 - Persian: Native
 - English: Professional working proficiency
 - IELTS: 6.5, November 2024
+
+## Voluntary Activities
+
+- **Conference Organizer**, ICROM 2023 — Dec. 2023
+- **Editor and Author**, Gaj International Publications, Chemistry — Sep. 2020–Sep. 2021
+- **Chemistry Teacher**, Self-employed — Sep. 2020–Mar. 2022
