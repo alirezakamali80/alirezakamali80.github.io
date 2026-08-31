@@ -2,7 +2,7 @@
 title: "Solenoid-Driven Rotary Motor with Speed Control"
 collection: portfolio
 permalink: /portfolio/solenoid-driven-rotary-motor/
-date: 2023-01-01
+date: 2024-02-16
 excerpt: "Design, dynamic modeling, PI speed control, simulation, and experimental validation of a solenoid-driven rotary motor."
 header:
   teaser: /images/projects/solenoid-rotary-motor.jpg
