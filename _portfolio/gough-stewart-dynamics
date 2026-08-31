@@ -4,8 +4,6 @@ collection: portfolio
 permalink: /portfolio/gough-stewart-dynamics/
 date: 2024-01-01
 excerpt: "Inverse-dynamics modeling, simulation, and validation of serial-parallel Gough–Stewart robotic manipulators."
-header:
-  teaser: /images/projects/gough-stewart-dynamics.jpg
 ---
 
 ## Overview
