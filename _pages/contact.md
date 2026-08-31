@@ -1,4 +1,9 @@
 
+---
+permalink: /contact/
+title: "Contact"
+author_profile: true
+---
 
 I welcome discussions and collaboration related to robotics, robotic manipulation, dynamics and control, computer vision, machine learning, soft robotics, and reinforcement learning.
 
