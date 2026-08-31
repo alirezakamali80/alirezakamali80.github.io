@@ -2,7 +2,7 @@
 title: "Dynamic Modeling of Double Segment Redundant Gough–Stewart Hybrid Manipulator"
 collection: publications
 permalink: /publication/icrom-2024-hybrid-manipulator/
-date: 2024-01-01
+date: 2025-03-05
 venue: "IEEE International Conference on Robotics and Mechatronics (ICROM)"
 paperurl: "https://ieeexplore.ieee.org/abstract/document/10903648/"
 citation: "A. Kamali et al. (2024). Dynamic Modeling of Double Segment Redundant Gough–Stewart Hybrid Manipulator. IEEE ICROM 2024."
