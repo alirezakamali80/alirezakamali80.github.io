@@ -4,61 +4,74 @@ title: "Research"
 author_profile: true
 ---
 
-My research aims to develop robotic systems that are mechanically capable, perceptually informed, and robustly controlled. I am especially interested in the integration of robot dynamics, compliant mechanisms, sensing, computer vision, and learning-based control.
+My research focuses on building robotic systems that combine mechanical intelligence, reliable dynamic models, robust control, visual perception, and learning-based decision-making.
 
 ## Robotic Manipulation
 
-I study robotic manipulation with an emphasis on compliant end-effectors, serial-parallel manipulators, redundant robots, and vision-guided grasping. My current work on a soft Fin-Ray gripper focuses on the physical and algorithmic challenges of handling deformable, delicate, and geometrically irregular objects.
+I am interested in robotic manipulation problems that require accurate modeling, compliant physical interaction, and robust control.
 
-Relevant topics include:
+Current and previous topics include:
 
-- Grasp planning and grasp stability
-- Soft robotic grippers and compliant mechanisms
-- Vision-guided pick-and-place systems
-- Kinematics and inverse kinematics
+- Vision-guided grasping and pick-and-place
+- Compliant and soft robotic grippers
+- Fin-Ray mechanisms for adaptive grasping
+- Manipulation of deformable and irregular objects
+- Serial-parallel robotic mechanisms
+- Gough–Stewart platforms and hybrid manipulators
+- Hyper-redundant robotic manipulators
 - Redundancy resolution and obstacle avoidance
-- Serial-parallel and Gough–Stewart mechanisms
 
 ## Dynamics and Control
 
-I am interested in modeling mechanical systems accurately and designing controllers that perform reliably in simulation and physical experiments.
+My work uses model-based methods to analyze and control mechanical and robotic systems.
 
-My technical interests include:
+Relevant areas include:
 
 - Robot dynamics and inverse dynamics
+- Jacobian-based and virtual-work formulations
+- Kinematics and inverse kinematics
 - State-space modeling and digital control
-- System identification and parameter estimation
-- State feedback, pole placement, and LQR
-- PI/PID control and disturbance rejection
+- PI control, lead compensation, and notch filtering
 - Flexible-system and satellite attitude control
-- Minimal/base inertial parameter identification
+- System identification
+- Minimal and base inertial-parameter identification
+- MATLAB, Simulink, Simscape, MSC Adams, and Python simulation workflows
 
 ## Computer Vision and Machine Learning
 
-I apply machine learning and computer vision to robotic perception and autonomous systems.
+I use computer vision and machine learning to provide perception capabilities for robotic and autonomous systems.
 
 My experience includes:
 
-- Object detection using YOLO models
-- Image classification with ResNet and Vision Transformers
-- Driving-scene and UAV-image datasets
-- Evaluation with mAP, precision, recall, ROC/AUC, and confusion matrices
-- Visual perception for robotic pick-and-place systems
-- Learning-based modeling and physics-informed AI
+- YOLO-based object detection
+- HSV-based object and color segmentation
+- Vision Transformers, including ViT-B/16
+- ResNet-50 image classification
+- Driving-scene classification using BDD100K-style data
+- UAV object detection using VisDrone-style data
+- Evaluation with mAP, precision, recall, ROC/AUC, confusion matrices, and inference speed
 
 ## Reinforcement Learning
 
-I develop and evaluate reinforcement-learning controllers for dynamic robotic systems.
+I develop reinforcement-learning controllers for nonlinear and dynamic robotic systems.
 
 My work includes:
 
+- Custom Gymnasium-style simulation environments
 - Q-learning and SARSA
 - Deep Q-Networks (DQN)
 - Soft Actor-Critic (SAC)
-- Custom Gymnasium-style simulation environments
-- Reward design, stability evaluation, and trajectory analysis
-- Comparative evaluation using success rate, RMS tracking error, and control effort
+- Robotic-arm swing-up and stabilization
+- Evaluation using success rate, RMS angle error, control effort, cumulative reward, and closed-loop trajectories
 
-## Research Vision
+## Long-Term Interests
 
-My long-term goal is to develop intelligent robotic systems that combine compliant hardware, reliable control, rich perception, and learning-based decision-making. I am particularly motivated by applications in assistive robotics, rehabilitation, bio-inspired robots, haptic systems, and autonomous manipulation.
+I am especially motivated by research connecting robotics with real-world human-centered applications, including:
+
+- Assistive and rehabilitation robotics
+- Biomechanics and wearable devices
+- Haptic interfaces
+- Bio-inspired mechanisms
+- Legged locomotion
+- Autonomous systems
+- Physics-informed AI for robotic modeling and control
