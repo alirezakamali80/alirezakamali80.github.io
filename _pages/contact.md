@@ -15,7 +15,10 @@ Email: [alirezakamaliardakani@gmail.com](mailto:alirezakamaliardakani@gmail.com)
 - GitHub: [github.com/alirezakamali80](https://github.com/alirezakamali80)
 - LinkedIn: [Alireza Kamali](https://www.linkedin.com/in/alireza-kamali-8840a7268/)
 
+## Phone
+Phone: +989127629255
+
 ## Research Affiliations
 
 - Human–Robot Interaction Laboratory, University of Tehran
-- Vibration Nonlinear Systems Laboratory, University of Tehran
+- Vibration Nonlinear Systems Laboratory, School of Mechanical Engineering, University of Tehran
