@@ -1,12 +1,9 @@
-
 ---
 title: "Soft Fin-Ray Robotic Gripper for Vision-Based Manipulation"
 collection: portfolio
 permalink: /portfolio/soft-fin-ray-gripper/
 date: 2026-01-01
 excerpt: "Research on the design, fabrication, and control of a compliant Fin-Ray robotic gripper for vision-based grasping of deformable objects."
-header:
-  teaser: /images/projects/soft-fin-ray-gripper.jpg
 ---
 
 ## Overview
