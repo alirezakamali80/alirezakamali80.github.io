@@ -4,8 +4,6 @@ collection: portfolio
 permalink: /portfolio/reinforcement-learning-arm/
 date: 2026-01-01
 excerpt: "Implementation and evaluation of SARSA, Q-learning, DQN, and SAC for robotic-arm swing-up and stabilization."
-header:
-  teaser: /images/projects/reinforcement-learning-arm.jpg
 ---
 
 ## Overview
