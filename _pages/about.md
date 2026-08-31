@@ -7,51 +7,58 @@ redirect_from:
   - /about.html
 ---
 
-I am **Alireza Kamali Ardakani**, an M.Sc. student in Mechanical Engineering (Robotics) at the University of Tehran. My work lies at the intersection of **robotic manipulation**, **dynamics and control**, **computer vision**, and **machine learning**.
+I am **Alireza Kamali Ardakani**, a robotics researcher with interests in **robotic manipulation**, **dynamics and control systems**, **computer vision**, **machine learning**, and **intelligent autonomous systems**.
 
-I am currently developing a soft Fin-Ray robotic gripper for vision-based manipulation of deformable objects. My research combines compliant mechanism design, system identification, control, and learning-based visual perception to enable stable and adaptive robotic grasping.
+I work as a Research Assistant at the University of Tehran, where I contribute to research on serial-parallel and hyper-redundant manipulators, compliant robotic grippers, vision-based grasping, system identification, and learning-based robotic systems.
 
-Previously, I worked on dynamic modeling and control of serial-parallel and hyper-redundant robotic manipulators at the Human–Robot Interaction Laboratory, University of Tehran.
+My work combines mechanical design, mathematical modeling, control theory, simulation, computer vision, and machine learning to develop capable and adaptive robotic systems.
 
-## Research Focus
+## Research Interests
 
-My primary research interests include:
+My primary interests include:
 
-- Robotic manipulation and compliant grasping
-- Robot dynamics, modeling, and control
-- Serial-parallel and redundant robotic manipulators
-- Computer vision for robotic perception
-- Deep learning and object detection
+- Robotic manipulation and grasping
+- Robot dynamics and control systems
+- Serial-parallel and hyper-redundant manipulators
+- Mechatronics, sensing, and autonomous systems
+- Computer vision and deep learning
 - Reinforcement learning for robot control
-- Bio-inspired mechanisms and soft robotics
-- Human–robot interaction, haptic devices, and wearable robotics
-- System identification and physics-informed learning
+- Soft robotics and bio-inspired mechanisms
+- Biomechanics, rehabilitation robotics, and wearable devices
+- Haptic systems and human–robot interaction
+- Physics-informed artificial intelligence
 
-## Current Research
+## Research Experience
 
-**Soft Fin-Ray Robotic Gripper for Vision-Based Manipulation**  
-I am designing, fabricating, and controlling a compliant Fin-Ray robotic gripper for grasping deformable and irregular objects. The project integrates mechanical design, computer vision, system identification, and machine learning for robust grasp planning and stable grasp execution.
+**Research Assistant — Human–Robot Interaction Laboratory**  
+University of Tehran, Apr. 2024–Present  
+Supervisor: Dr. Mehdi Tale Masouleh
+
+My work includes dynamic modeling and control of serial-parallel and hyper-redundant manipulators, redundancy resolution, obstacle avoidance, and minimal inertial-parameter identification. I use MATLAB, Simscape, Python, and MSC Adams for simulation and validation.
+
+**Research Assistant — Vibration Nonlinear Systems Laboratory**  
+University of Tehran, Jan. 2026–Present  
+Supervisor: Dr. Arash Bahrami
+
+I contribute to the design, fabrication, and control of a soft Fin-Ray robotic gripper. The research investigates vision-based grasping of deformable objects, compliant manipulation, SolidWorks modeling, computer vision, system identification, and machine learning.
 
 ## Education
 
-**M.Sc. in Mechanical Engineering — Robotics**  
-University of Tehran, Sep. 2025–Present  
-GPA: 17.04/20  
-Thesis: *Design, Control, and Fabrication of a Soft Fin-Ray Robotic Gripper Based on Computer Vision*
-
 **B.Sc. in Mechanical Engineering**  
 University of Tehran, Sep. 2020–Sep. 2025  
-GPA: 18.04/20 (3.83/4.00); final two years: 3.92/4.00; ranked 9th among 120 students  
+GPA: 18.04/20 (3.83/4.00)  
+Rank: 9th among 120 students  
 Thesis: *Dynamic Analysis of Gough–Stewart Parallel Manipulators in a Serial Configuration*
 
 ## Selected Highlights
 
-- Research Assistant at the Human–Robot Interaction Laboratory, University of Tehran.
-- Research Assistant at the Vibration Nonlinear Systems Laboratory, University of Tehran.
 - Published research at IEEE ICROM 2024 and ISME 2025.
-- Developed robotics, digital-control, deep-learning, and reinforcement-learning projects using MATLAB, Simulink, Python, ROS, and modern computer-vision toolchains.
+- Developed inverse-dynamics and simulation models for serial-parallel Gough–Stewart manipulators.
+- Implemented reinforcement-learning algorithms including SARSA, Q-learning, DQN, and SAC for robotic control.
+- Built deep-learning and computer-vision systems using YOLO, ResNet, and Vision Transformers.
 - Ranked among the top 15 finalists in the National Mechanical Engineering Student Olympiad in 2023 and 2024.
+- Ranked among the top 0.2% in the 2020 National University Entrance Examination.
 
 ## Contact
 
-For research collaboration, academic opportunities, or technical discussions, please contact me at [alirezakamaliardakani@gmail.com](mailto:alirezakamaliardakani@gmail.com).
+For research collaboration, academic opportunities, or technical discussions, contact me at [alirezakamaliardakani@gmail.com](mailto:alirezakamaliardakani@gmail.com).
