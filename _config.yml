@@ -1,5 +1,5 @@
 # =========================================================
-# Personal Academic Website Configuration
+# Personal Academic Website
 # Alireza Kamali Ardakani
 # =========================================================
 
@@ -9,12 +9,12 @@ site_theme               : "default"
 title                    : "Alireza Kamali Ardakani"
 title_separator          : "-"
 name                     : "Alireza Kamali Ardakani"
-description              : "Robotics, control systems, computer vision, machine learning, and intelligent robotic manipulation."
+description              : "Robotics researcher working on robotic manipulation, dynamics and control, computer vision, and intelligent systems."
 url                      : "https://alirezakamali80.github.io"
 baseurl                  : ""
 repository               : "alirezakamali80/alirezakamali80.github.io"
 
-# Site behavior
+# General site behavior
 breadcrumbs              : false
 words_per_minute         : 200
 comments:
@@ -24,9 +24,9 @@ comments:
 markdown                 : kramdown
 highlighter              : rouge
 permalink                : /:categories/:title/
-timezone                 : "America/Chicago"
+timezone                 : "Asia/Tehran"
 
-# Markdown and mathematics
+# Markdown / math configuration
 kramdown:
   input                  : GFM
   hard_wrap              : false
@@ -37,7 +37,7 @@ kramdown:
   smart_quotes           : lsquo,rsquo,ldquo,rdquo
   enable_coderay         : false
 
-# Include useful files/folders in build
+# Files and folders to retain in the published website
 include:
   - .htaccess
   - _pages
@@ -57,19 +57,19 @@ exclude:
   - .github
 
 # =========================================================
-# Author / Sidebar Profile
+# Sidebar author profile
 # =========================================================
 author:
   avatar                 : "profile.jpg"
   name                   : "Alireza Kamali Ardakani"
   pronouns               :
-  bio                    : "M.Sc. student in Mechanical Engineering (Robotics), working on robotic manipulation, control, computer vision, and intelligent systems."
+  bio                    : "Robotics researcher focused on robotic manipulation, dynamics and control, computer vision, and intelligent systems."
   location               : "Tehran, Iran"
   employer               : "University of Tehran"
   uri                    :
   email                  : "alirezakamaliardakani@gmail.com"
 
-  # Academic profiles
+  # Academic profiles: leave blank until you create them
   googlescholar          : ""
   orcid                  : ""
   researchgate           : ""
@@ -79,35 +79,37 @@ author:
   linkedin               : "alireza-kamali-8840a7268"
   github                 : "alirezakamali80"
 
-  # Optional profiles: leave blank until you have them
+  # Optional profiles
+  kaggle                 : ""
+  youtube                : ""
   twitter                : ""
   x                      : ""
-  youtube                : ""
-  kaggle                 : ""
   medium                 : ""
 
 # =========================================================
-# Collections
+# Website collections
 # =========================================================
 collections:
   publications:
     output               : true
     permalink            : /publication/:path/
+
   portfolio:
     output               : true
     permalink            : /portfolio/:path/
+
   talks:
     output               : true
     permalink            : /talks/:path/
+
   teaching:
     output               : true
     permalink            : /teaching/:path/
 
 # =========================================================
-# Default page layouts
+# Default layouts
 # =========================================================
 defaults:
-  # Posts
   - scope:
       path: ""
       type: posts
@@ -119,14 +121,12 @@ defaults:
       share: false
       related: false
 
-  # Pages
   - scope:
       path: "_pages"
     values:
       layout: single
       author_profile: true
 
-  # Publications
   - scope:
       path: ""
       type: publications
@@ -136,7 +136,6 @@ defaults:
       share: false
       related: false
 
-  # Portfolio projects
   - scope:
       path: ""
       type: portfolio
@@ -146,7 +145,6 @@ defaults:
       share: false
       related: false
 
-  # Talks: keep for future use, but hide from navigation
   - scope:
       path: ""
       type: talks
@@ -156,7 +154,6 @@ defaults:
       share: false
       related: false
 
-  # Teaching
   - scope:
       path: ""
       type: teaching
@@ -167,7 +164,7 @@ defaults:
       related: false
 
 # =========================================================
-# Archive settings
+# Archives
 # =========================================================
 category_archive:
   type                   : liquid
@@ -179,7 +176,6 @@ tag_archive:
 
 # =========================================================
 # Plugins
-# Keep these unless the template's current config differs
 # =========================================================
 plugins:
   - jekyll-redirect-from
