@@ -4,8 +4,6 @@ collection: portfolio
 permalink: /portfolio/advanced-visual-perception/
 date: 2026-01-01
 excerpt: "Deep-learning experiments using ViT, ResNet, and YOLO for driving-scene classification and UAV object detection."
-header:
-  teaser: /images/projects/advanced-visual-perception.jpg
 ---
 
 ## Overview
@@ -22,7 +20,7 @@ This project explored deep-learning methods for scene understanding and object d
 ## Evaluation
 
 - ROC curves and AUC
-- mAP
+- Mean average precision (mAP)
 - Precision and recall
 - Confusion matrices
 - Inference speed
