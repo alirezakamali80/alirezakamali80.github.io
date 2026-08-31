@@ -1,12 +1,9 @@
-
 ---
 title: "ATRA: Vision-Guided SCARA Robotic Arm"
 collection: portfolio
 permalink: /portfolio/atra-scara/
 date: 2026-01-01
 excerpt: "A three-axis SCARA robotic arm for object sorting and pick-and-place using YOLOv8, HSV-based detection, and a compliant Fin-Ray gripper."
-header:
-  teaser: /images/projects/atra-scara.jpg
 ---
 
 ## Overview
