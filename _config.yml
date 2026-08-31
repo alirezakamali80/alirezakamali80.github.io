@@ -144,6 +144,7 @@ defaults:
       author_profile: true
       share: false
       related: false
+      markdown: 1
 
   - scope:
       path: ""
