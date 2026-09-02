@@ -2,7 +2,7 @@
 title: "Advanced Visual Perception with ViT - YOLO"
 collection: portfolio
 permalink: /portfolio/advanced-visual-perception/
-date: 2026
+date: Apr 2026
 excerpt: "Deep-learning experiments using ViT, ResNet, and YOLO for driving-scene classification and UAV object detection."
 ---
 
