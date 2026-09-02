@@ -6,6 +6,8 @@ permalink: /portfolio/mechanical-integrator/
 excerpt: "Design, fabrication, modeling, and experimental validation of a stepper-motor-driven mechanical integrator."
 author_profile: true
 duration: "2024 – 2025"
+date: 2026-01-01
+show_date: false
 header:
   teaser: /images/projects/mechanical-integrator.png
 ---
