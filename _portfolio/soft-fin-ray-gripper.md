@@ -3,7 +3,7 @@ layout: single
 title: "Soft Fin-Ray Robotic Gripper for Vision-Based Manipulation"
 collection: portfolio
 permalink: /portfolio/soft-fin-ray-gripper/
-excerpt: "Design, fabrication, and control of a compliant Fin-Ray gripper for vision-based grasping of deformable objects."
+excerpt: "Research on the design, fabrication, and control of a compliant Fin-Ray robotic gripper for vision-based grasping of deformable objects."
 author_profile: true
 duration: "Jan. 2026 – Present"
 ---
@@ -13,25 +13,41 @@ duration: "Jan. 2026 – Present"
   <strong>Project duration:</strong> Jan. 2026 – Present
 </p>
 
-## Overview
+<h2>Overview</h2>
 
-This research project investigates the design, fabrication, and control of a soft Fin-Ray robotic gripper for compliant handling of deformable, delicate, and geometrically irregular objects.
+<p>
+  This research project investigates the design, fabrication, and control of a
+  soft Fin-Ray robotic gripper for compliant handling of deformable, delicate,
+  and geometrically irregular objects.
+</p>
 
-The project combines compliant mechanism design with computer vision, system identification, and machine-learning methods to support robust grasping and stable physical interaction.
+<p>
+  The project combines compliant mechanism design with computer vision, system
+  identification, and machine-learning methods to support robust grasping and
+  stable physical interaction.
+</p>
 
-## Contributions
+<h2>Contributions</h2>
 
-- Designed and fabricated a compliant Fin-Ray robotic-gripper mechanism.
-- Investigated grasp behavior for deformable and irregular objects.
-- Developed vision-based perception components to support object detection and grasping.
-- Applied SolidWorks modeling, computer vision, system identification, and machine learning.
-- Studied stable and compliant manipulation strategies.
+<ul>
+  <li>Designed and fabricated a compliant Fin-Ray robotic-gripper mechanism.</li>
+  <li>Investigated grasp behavior for deformable and irregular objects.</li>
+  <li>Developed vision-based perception components to support object detection and grasping.</li>
+  <li>Applied SolidWorks modeling, computer vision, system identification, and machine learning.</li>
+  <li>Studied stable and compliant manipulation strategies.</li>
+</ul>
 
-## Research Context
+<h2>Research Context</h2>
 
-Research Assistant, Vibration Nonlinear Systems Laboratory, University of Tehran  
-Supervisor: Dr. Arash Bahrami
+<p>
+  <strong>Role:</strong> Research Assistant<br>
+  <strong>Laboratory:</strong> Vibration Nonlinear Systems Laboratory, University of Tehran<br>
+  <strong>Supervisor:</strong> Dr. Arash Bahrami
+</p>
 
-## Keywords
+<h2>Keywords</h2>
 
-Soft robotics, Fin-Ray gripper, compliant manipulation, vision-based grasping, computer vision, system identification, machine learning
+<p>
+  Soft robotics · Fin-Ray gripper · Compliant manipulation · Vision-based grasping ·
+  Computer vision · System identification · Machine learning
+</p>
