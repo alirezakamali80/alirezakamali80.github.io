@@ -1,10 +1,17 @@
 ---
+layout: single
 title: "Soft Fin-Ray Robotic Gripper for Vision-Based Manipulation"
 collection: portfolio
 permalink: /portfolio/soft-fin-ray-gripper/
-date: 2026-01-01
-excerpt: "Research on the design, fabrication, and control of a compliant Fin-Ray robotic gripper for vision-based grasping of deformable objects."
+excerpt: "Design, fabrication, and control of a compliant Fin-Ray gripper for vision-based grasping of deformable objects."
+author_profile: true
+duration: "Jan. 2026 – Present"
 ---
+
+<p class="page__meta">
+  <i class="fa fa-calendar" aria-hidden="true"></i>
+  <strong>Project duration:</strong> Jan. 2026 – Present
+</p>
 
 ## Overview
 
