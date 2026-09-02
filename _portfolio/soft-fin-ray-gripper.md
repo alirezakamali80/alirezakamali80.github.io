@@ -10,11 +10,6 @@ show_date: false
 duration: "Jan. 2026 – Present"
 ---
 
-<p class="page__meta">
-  <i class="fa fa-calendar" aria-hidden="true"></i>
-  <strong>Project duration:</strong> Jan. 2026 – Present
-</p>
-
 <h2>Overview</h2>
 
 <p>
