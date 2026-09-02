@@ -6,6 +6,8 @@ permalink: /portfolio/soft-fin-ray-gripper/
 excerpt: "Research on the design, fabrication, and control of a compliant Fin-Ray robotic gripper for vision-based grasping of deformable objects."
 author_profile: true
 duration: "Jan. 2026 – Present"
+date: 2026-01-01
+show_date: false
 ---
 
 <p class="page__meta">
