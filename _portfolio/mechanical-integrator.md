@@ -1,28 +1,68 @@
 ---
+layout: single
 title: "Mechanical Integrator"
 collection: portfolio
 permalink: /portfolio/mechanical-integrator/
-date: 2024
 excerpt: "Design, fabrication, modeling, and experimental validation of a stepper-motor-driven mechanical integrator."
+author_profile: true
+duration: "2024 – 2025"
 header:
-  teaser: /images/projects/mechanical-integrator.jpg
+  teaser: /images/projects/mechanical-integrator.png
 ---
 
-## Overview
+<p class="page__meta">
+  <i class="fa fa-calendar" aria-hidden="true"></i>
+  <strong>Project duration:</strong> 2024 – 2025
+</p>
 
-This project involved the design and fabrication of a mechanical integrator driven by a stepper motor and lead-screw transmission mechanism.
+<img src="/images/projects/mechanical-integrator.png"
+     alt="Mechanical integrator prototype"
+     style="display: block; max-width: 100%; height: auto; margin: 1.25rem auto;">
 
-## Contributions
+<h2>Overview</h2>
 
-- Designed the mechanical structure and motion-transmission mechanism.
-- Modeled the lead-screw-based integration system.
-- Integrated stepper-motor actuation.
-- Experimentally validated integration behavior through output-shaft displacement measurements.
+<p>
+  This project involved the design and fabrication of a mechanical integrator
+  driven by a stepper motor and a lead-screw transmission mechanism.
+</p>
 
-## Links
+<p>
+  The objective was to implement physical integration behavior through a
+  mechanical system and validate the mechanism experimentally using measured
+  output-shaft displacement.
+</p>
 
-- [Linkedin Post]([https://github.com/alirezakamali80/Mechanical-Integrator](https://www.linkedin.com/posts/alireza-kamali-8840a7268_what-a-fascinating-project-mechanical-integrator-activity-7223207148728573952-KVTk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEGCXiQBikv1hUmNnVT2GPb3jsu9vyo_TMk))
+<h2>Contributions</h2>
 
-## Keywords
+<ul>
+  <li>Designed the mechanical structure and motion-transmission mechanism.</li>
+  <li>Modeled the lead-screw-based integration system.</li>
+  <li>Integrated stepper-motor actuation into the mechanical design.</li>
+  <li>Experimentally validated integration behavior through output-shaft displacement measurements.</li>
+  <li>Contributed to research published at ISME 2025.</li>
+</ul>
 
-Mechanical integrator, stepper motor, lead screw, mechatronics, mechanism design, experimental validation
+<h2>Tools</h2>
+
+<p>
+  SolidWorks · Stepper Motor · Lead Screw · MATLAB · Experimental Validation
+</p>
+
+<h2>Links</h2>
+
+<ul>
+  <li>
+    <a href="https://github.com/alirezakamali80/Mechanical-Integrator"
+       target="_blank"
+       rel="noopener">
+      GitHub Repository: Mechanical Integrator
+    </a>
+  </li>
+</ul>
+
+<h2>Keywords</h2>
+
+<p>
+  Mechanical integrator · Stepper motor · Lead screw · Mechatronics ·
+  Mechanism design · Experimental validation
+</p>
