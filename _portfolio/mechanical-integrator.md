@@ -12,10 +12,6 @@ header:
   teaser: /images/projects/mechanical-integrator.png
 ---
 
-<p class="page__meta">
-  <i class="fa fa-calendar" aria-hidden="true"></i>
-  <strong>Project duration:</strong> 2024 – 2025
-</p>
 
 <img src="/images/projects/mechanical-integrator.png"
      alt="Mechanical integrator prototype"
