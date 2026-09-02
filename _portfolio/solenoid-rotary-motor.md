@@ -12,10 +12,6 @@ header:
   teaser: /images/projects/solenoid-rotary-motor.jpg
 ---
 
-<p class="page__meta">
-  <i class="fa fa-calendar" aria-hidden="true"></i>
-  <strong>Project duration:</strong> 2023
-</p>
 
 <img src="/images/projects/solenoid-rotary-motor.jpg"
      alt="Solenoid-driven rotary motor"
