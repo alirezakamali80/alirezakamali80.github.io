@@ -21,7 +21,7 @@ This project involved the design and fabrication of a mechanical integrator driv
 
 ## Links
 
-- [GitHub repository](https://github.com/alirezakamali80/Mechanical-Integrator)
+- [Linkedin Post]([https://github.com/alirezakamali80/Mechanical-Integrator](https://www.linkedin.com/posts/alireza-kamali-8840a7268_what-a-fascinating-project-mechanical-integrator-activity-7223207148728573952-KVTk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEGCXiQBikv1hUmNnVT2GPb3jsu9vyo_TMk))
 
 ## Keywords
 
