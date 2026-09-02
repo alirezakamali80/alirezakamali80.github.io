@@ -6,6 +6,8 @@ permalink: /portfolio/atra-scara/
 excerpt: "A vision-guided SCARA robot for automated pick-and-place and sorting using YOLOv8, HSV detection, and a compliant Fin-Ray gripper."
 author_profile: true
 duration: "2026"
+date: 2026-01-01
+show_date: false
 header:
   teaser: /images/projects/atra-scara.jpeg
 ---
