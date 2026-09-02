@@ -1,27 +1,58 @@
 ---
+layout: single
 title: "ATRA: Vision-Guided SCARA Robotic Arm"
 collection: portfolio
 permalink: /portfolio/atra-scara/
-date: 2026-01-01
-excerpt: "A three-axis SCARA robotic arm for object sorting and pick-and-place using YOLOv8, HSV-based detection, and a compliant Fin-Ray gripper."
+excerpt: "A vision-guided SCARA robot for automated pick-and-place and sorting using YOLOv8, HSV detection, and a compliant Fin-Ray gripper."
+author_profile: true
+duration: "2026"
+header:
+  teaser: /images/projects/atra-scara.jpeg
 ---
 
-## Overview
+<p class="page__meta">
+  <i class="fa fa-calendar" aria-hidden="true"></i>
+  <strong>Project duration:</strong> 2026
+</p>
 
-ATRA is a vision-guided three-axis SCARA robotic-arm project for automated object sorting and pick-and-place applications.
+<img src="/images/projects/atra-scara.jpeg"
+     alt="ATRA vision-guided SCARA robotic arm"
+     style="display: block; max-width: 100%; height: auto; margin: 1.25rem auto;">
 
-The system integrates object detection with robotic motion and a compliant Fin-Ray gripper to safely handle delicate and irregular objects.
+<h2>Overview</h2>
 
-## Technical Components
+<p>
+  ATRA is a vision-guided three-axis SCARA robotic-arm project developed for
+  automated object sorting and pick-and-place operations.
+</p>
 
-- Three-axis SCARA robot
-- Automated pick-and-place and sorting
-- YOLOv8-based object detection
-- HSV-based object and color segmentation
-- Vision-to-robot coordinate mapping
-- Compliant Fin-Ray gripper integration
-- Visual feedback for robotic manipulation
+<p>
+  The system combines visual object detection, robot-coordinate mapping, and a
+  compliant Fin-Ray gripper to enable safe handling of delicate and irregular
+  objects.
+</p>
 
-## Keywords
+<h2>Technical Components</h2>
 
-SCARA robot, vision-guided robotics, YOLOv8, HSV segmentation, robotic sorting, pick-and-place, compliant gripper
+<ul>
+  <li>Three-axis SCARA robotic-arm architecture.</li>
+  <li>Automated pick-and-place and sorting workflow.</li>
+  <li>YOLOv8-based object detection.</li>
+  <li>HSV-based object and color segmentation.</li>
+  <li>Vision-to-robot coordinate mapping.</li>
+  <li>Compliant Fin-Ray gripper integration.</li>
+  <li>Visual feedback for robotic manipulation.</li>
+</ul>
+
+<h2>Tools</h2>
+
+<p>
+  Python · YOLOv8 · OpenCV · ROS · Arduino · Robotic Manipulation
+</p>
+
+<h2>Keywords</h2>
+
+<p>
+  SCARA robot · Vision-guided robotics · YOLOv8 · HSV segmentation ·
+  Robotic sorting · Pick-and-place · Compliant gripper · Computer vision
+</p>
