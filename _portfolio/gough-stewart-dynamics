@@ -1,30 +1,46 @@
 ---
 layout: single
-title: "Dynamic Modeling of Serial Gough Stewart Robots"
+title: "Dynamic Modeling of Serial Gough–Stewart Robots"
 collection: portfolio
 permalink: /portfolio/gough-stewart-dynamics/
 date: 2024-01-01
 excerpt: "Inverse-dynamics modeling, simulation, and validation of serial-parallel Gough–Stewart robotic manipulators."
 author_profile: true
-markdown: 1
 ---
 
-## Overview
+<h2>Overview</h2>
 
-This project investigated the dynamic analysis of serial-parallel Gough–Stewart manipulators, including hybrid, redundant, and hyper-redundant configurations.
+<p>
+  This project investigated the dynamic analysis of serial-parallel
+  Gough–Stewart manipulators, including hybrid, redundant, and
+  hyper-redundant configurations.
+</p>
 
-## Contributions
+<h2>Contributions</h2>
 
-- Developed inverse-dynamics models using virtual-work and Jacobian-based formulations.
-- Implemented inverse kinematics and trajectory-tracking simulations.
-- Performed actuator-force validation.
-- Modeled serial-parallel systems in MATLAB and Simscape.
-- Investigated minimal and base inertial parameters.
+<ul>
+  <li>Developed inverse-dynamics models using virtual-work and Jacobian-based formulations.</li>
+  <li>Implemented inverse kinematics and trajectory-tracking simulations.</li>
+  <li>Performed actuator-force validation.</li>
+  <li>Modeled serial-parallel systems in MATLAB and Simscape.</li>
+  <li>Investigated minimal and base inertial parameters.</li>
+</ul>
 
-## Links
+<h2>Links</h2>
 
-- [GitHub repository: Dynamic Modeling of Hybrid Robots](https://github.com/alirezakamali80/Dynamic-Modeling-of-Hybrid-Robots)
+<ul>
+  <li>
+    <a href="https://github.com/alirezakamali80/Dynamic-Modeling-of-Hybrid-Robots"
+       target="_blank"
+       rel="noopener">
+       GitHub Repository: Dynamic Modeling of Hybrid Robots
+    </a>
+  </li>
+</ul>
 
-## Keywords
+<h2>Keywords</h2>
 
-Parallel robots, Gough–Stewart platform, robot dynamics, inverse dynamics, virtual work, Jacobian, Simscape
+<p>
+  Parallel robots · Gough–Stewart platform · Robot dynamics ·
+  Inverse dynamics · Virtual work · Jacobian methods · Simscape
+</p>
