@@ -71,20 +71,21 @@ author:
 
   # Academic profiles: leave blank until you create them
   googlescholar          : "CvtlSLcAAAAJ"
-  orcid                  : ""
+  # orcid                  : ""
   researchgate           : ""
-  semantic               : ""
+  # semantic               : ""
 
   # Professional profiles
   linkedin               : "alireza-kamali-8840a7268"
   github                 : "alirezakamali80"
 
   # Optional profiles
-  kaggle                 : ""
-  youtube                : ""
-  twitter                : ""
-  x                      : ""
-  medium                 : ""
+  Telegram               : "@AlirezaiKamali
+  # kaggle                 : ""
+  #youtube                : ""
+  #twitter                : ""
+  #x                      : ""
+  #medium                 : ""
 
 # =========================================================
 # Website collections
