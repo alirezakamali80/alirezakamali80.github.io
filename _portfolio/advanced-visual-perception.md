@@ -1,5 +1,5 @@
 ---
-title: "Advanced Visual Perception with ViT and YOLO"
+title: "Advanced Visual Perception with ViT - YOLO"
 collection: portfolio
 permalink: /portfolio/advanced-visual-perception/
 date: 2026-01-01
