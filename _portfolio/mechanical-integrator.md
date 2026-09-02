@@ -2,7 +2,7 @@
 title: "Mechanical Integrator"
 collection: portfolio
 permalink: /portfolio/mechanical-integrator/
-date: 2024-01-01
+date: 2024
 excerpt: "Design, fabrication, modeling, and experimental validation of a stepper-motor-driven mechanical integrator."
 header:
   teaser: /images/projects/mechanical-integrator.jpg
