@@ -6,6 +6,8 @@ permalink: /portfolio/solenoid-driven-rotary-motor/
 excerpt: "Design, dynamic modeling, PI speed control, simulation, and experimental validation of a solenoid-driven rotary motor."
 author_profile: true
 duration: "2023"
+date: 2026-01-01
+show_date: false
 header:
   teaser: /images/projects/solenoid-rotary-motor.jpg
 ---
