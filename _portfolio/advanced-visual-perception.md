@@ -6,6 +6,7 @@ date: 2026-01-01
 excerpt: "Deep-learning experiments using ViT, ResNet, and YOLO for driving-scene classification and UAV object detection."
 ---
 
+
 ## Overview
 
 This project explored deep-learning methods for scene understanding and object detection in driving and UAV imagery.
