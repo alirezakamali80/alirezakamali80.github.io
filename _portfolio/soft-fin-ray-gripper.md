@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Soft Fin-Ray Robotic Gripper for Vision-Based Manipulation"
+title: "Soft Fin-Ray Robotic Gripper Design"
 collection: portfolio
 permalink: /portfolio/soft-fin-ray-gripper/
 excerpt: "Research on the design, fabrication, and control of a compliant Fin-Ray robotic gripper for vision-based grasping of deformable objects."
@@ -22,9 +22,9 @@ duration: "Jan. 2026 – Present"
 </p>
 
 <p>
-  The project combines compliant mechanism design with computer vision, system
-  identification, and machine-learning methods to support robust grasping and
-  stable physical interaction.
+  The research combines compliant mechanism design, vision-based perception,
+  system identification, and machine-learning methods to support stable grasping
+  and safe robotic interaction.
 </p>
 
 <h2>Contributions</h2>
@@ -43,6 +43,12 @@ duration: "Jan. 2026 – Present"
   <strong>Role:</strong> Research Assistant<br>
   <strong>Laboratory:</strong> Vibration Nonlinear Systems Laboratory, University of Tehran<br>
   <strong>Supervisor:</strong> Dr. Arash Bahrami
+</p>
+
+<h2>Tools</h2>
+
+<p>
+  SolidWorks · Computer Vision · Python · System Identification · Machine Learning
 </p>
 
 <h2>Keywords</h2>
