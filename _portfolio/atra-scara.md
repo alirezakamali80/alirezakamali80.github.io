@@ -12,11 +12,6 @@ header:
   teaser: /images/projects/atra-scara.jpeg
 ---
 
-<p class="page__meta">
-  <i class="fa fa-calendar" aria-hidden="true"></i>
-  <strong>Project duration:</strong> 2026
-</p>
-
 <img src="/images/projects/atra-scara.jpeg"
      alt="ATRA vision-guided SCARA robotic arm"
      style="display: block; max-width: 100%; height: auto; margin: 1.25rem auto;">
